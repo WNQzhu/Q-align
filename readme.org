@@ -1,0 +1,16 @@
+* Spherical Graph Embedding for Item Retrieval in Recommendation System
+
+Source code for CIKM'22 paper(Short Paper Track) "Spherical Graph Embedding for Item Retrieval in Recommendation System".
+
+** Introduction
+In this paper, we present a simple and effective graph-based retrieval method. Internally, we call it Q-align, which has widely
+deployed in many different scenarios(Item/User Retrieval, Graph Transfer Learning, diversity in recommender, etc).
+
+The wide deployments of the proposed method show its effectiveness in real-life Recommendation Systems.
+
+** Thanks
+To evaluate our method on the public dataset, we use the CogDL Toolkit(https://cogdl.ai/).
+The results are listed in "result.txt".
+We're grateful to the authors of the CogDL Toolkit(https://codgl.ai) for their excellent work, which saves us much time.
+
+   
