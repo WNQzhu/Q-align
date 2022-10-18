@@ -17,18 +17,10 @@ We're grateful to the authors of the CogDL Toolkit(https://codgl.ai) for their e
 ** ref
 #+begin_src
 @inproceedings{10.1145/3511808.3557704,
-author = {Zhu, Wenqiao and Xu, Yesheng and Huang, Xin and Min, Qiyang and Zhou, Xun},
-title = {Spherical Graph Embedding for Item Retrieval in Recommendation System},
-year = {2022},
-isbn = {9781450392365},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3511808.3557704},
-doi = {10.1145/3511808.3557704},
-pages = {4752–4756},
-numpages = {5},
-keywords = {graph embedding, graph-based retrieval, recommendation systems},
-location = {Atlanta, GA, USA},
-series = {CIKM '22}
+  author = {Zhu, Wenqiao and Xu, Yesheng and Huang, Xin and Min, Qiyang and Zhou, Xun},
+  title = {Spherical Graph Embedding for Item Retrieval in Recommendation System},
+  year = {2022},
+  pages = {4752–4756},
+  series = {CIKM '22}
 }
 #+end_src
