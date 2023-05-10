@@ -1,6 +1,6 @@
 * Spherical Graph Embedding for Item Retrieval in Recommendation System
 
-Source code for CIKM'22 paper(Short Paper Track) "Spherical Graph Embedding for Item Retrieval in Recommendation System". 
+Source code for CIKM'22 paper(sp) "Spherical Graph Embedding for Item Retrieval in Recommendation System". 
 (link: https://dl.acm.org/doi/10.1145/3511808.3557704)
 
 ** Introduction
