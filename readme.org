@@ -15,7 +15,7 @@ The results are listed in "result.txt".
 We're grateful to the authors of the CogDL Toolkit(https://cogdl.ai) for their excellent work, which saves us much time.
 
    
-** ref
+** Citation
 #+begin_src
 @inproceedings{10.1145/3511808.3557704,
 author = {Zhu, Wenqiao and Xu, Yesheng and Huang, Xin and Min, Qiyang and Zhou, Xun},
