@@ -4,8 +4,8 @@ Source code for CIKM'22 paper(sp) "Spherical Graph Embedding for Item Retrieval 
 (link: https://dl.acm.org/doi/10.1145/3511808.3557704)
 
 ** Introduction
-In this paper, we present a simple and effective graph-based retrieval method. Internally, we call it Q-align, which has widely
-deployed in many different scenarios:
+In this paper, we present a simple and effective graph-based recommendation method. Internally, we call it Q-align, which has widely
+adopted in many different scenarios:
 ****** Item/User Retrieval
 ****** Graph Transfer Learning
 ****** Diversity in recommender
