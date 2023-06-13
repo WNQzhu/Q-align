@@ -12,7 +12,7 @@ adopted in many different scenarios:
 ****** Universal Graph Embedding
 ****** etc
 
-The wide deployments of the proposed method show its effectiveness in real-life Recommendation Systems.
+There are 20+ launches at Bytedance. The wide deployments of the proposed method show its effectiveness in real-life Recommendation Systems.
 
 ** Thanks
 To evaluate our method on the public dataset, we use the CogDL Toolkit(https://cogdl.ai/).
